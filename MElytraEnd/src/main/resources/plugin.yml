@@ -1,0 +1,6 @@
+name: MElytraEnd
+version: '${project.version}'
+main: me.matt.melytraend.MElytraEnd
+api-version: '1.20'
+authors: [Mattgyve1990]
+description: The plugin won't let you put on elytras in the end until you're at the right height
